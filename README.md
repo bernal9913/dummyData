@@ -1,0 +1,2 @@
+<h1>Dummy data</h1>
+<p>Practica de chile para el esquizo donde se <br>crean 35000 campos de informacion con los <br>nombres y apellidos mas comunes de mexico <br>y el mundo y se hace un archivo sql </p>
